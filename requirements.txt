@@ -49,4 +49,8 @@ scipy==1.2.1
 seaborn==0.10.0
 voila==0.1.6
 voila-gridstack==0.0.9
-
+zict==1.0.0
+zipp==2.2.0
+zope.event==4.4
+zope.interface==5.1.0
+pygments==2.5.2
