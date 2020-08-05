@@ -238,3 +238,4 @@ yahoo-finance==1.4.0
 yahoofinancials==1.5
 yapf==0.28.0
 yfinance==0.1.54
+pyobjc-framework-CFNetwork==6.2.2
